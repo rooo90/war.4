@@ -1,6 +1,6 @@
 token= NTYzNzQyOTI5NTU5MDkzMjY5.XKdwig.lGp8wN99FMWEfHRVKuvTOBp-wnw
 owner= 526947416658935810
-prefix=4
-game=4help | War
-stayinchannel=true
-songinstatus=false
+prefix= 4
+game= 4help | War
+stayinchannel=true 
+songinstatus=false 
